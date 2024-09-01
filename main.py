@@ -144,7 +144,7 @@ class maingame:
             return gridcontroler
 
         def sidebarFunction(self,grid,test):
-            print('Clicked on sidebar grid')
+            print('Clicked on sidebar gqqrid')
             return
 
 
